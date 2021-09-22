@@ -2,7 +2,8 @@
 
 Neuromatch Academy Computational Neuroscience 2021 project by Alexander Enge, Manshan Guo, Fabian Renz, Regina Zaghi-Lara and Katherine Baquero
 
-Special credit to our TAs:  Patrick Boak and Tejas Savalia 
+Special credit to our TAs:  Patrick Boak and Tejas Savalia
+
 And to our mentor: Steven Scholte 
  
  ## Abstract
