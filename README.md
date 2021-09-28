@@ -1,4 +1,4 @@
-# How Deep Neural Networks compare to fMRI representations?
+# How do Deep Neural Networks compare to fMRI representations?
 
 Neuromatch Academy Computational Neuroscience 2021 project by Alexander Enge, Manshan Guo, Fabian Renz, Regina Zaghi-Lara and Katherine Baquero
 
